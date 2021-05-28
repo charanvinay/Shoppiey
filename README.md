@@ -7,3 +7,5 @@ UI design of an e-commerce site
 ![4](https://github.com/charanvinay/Shoppiey/blob/master/shoppie_images/4.PNG)
 ![5](https://github.com/charanvinay/Shoppiey/blob/master/shoppie_images/5.PNG)
 ![6](https://github.com/charanvinay/Shoppiey/blob/master/shoppie_images/6.PNG)
+![7](https://github.com/charanvinay/Shoppiey/blob/master/shoppie_images/7.PNG)
+![8](https://github.com/charanvinay/Shoppiey/blob/master/shoppie_images/8.PNG)
